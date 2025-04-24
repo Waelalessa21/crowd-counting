@@ -81,12 +81,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to all contributors who have helped with the development
 - Special thanks to the research community for advancing crowd counting techniques
 
-## 👥 Project Team
-
-- وائل العيسى
-- عبدالله المديرس
-- عزام الكليب
-- خالد اليامي
 
 ## 📬 Contact
 
